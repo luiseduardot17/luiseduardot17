@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img href="https://github.com/luiseduardot17/luiseduardot17/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/luiseduardot17/luiseduardot17/output/github-contribution-grid-snake.svg)
 
 ###
