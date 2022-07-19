@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Olá pessoal 👋!<br>Full Stack Developer 🖥️<br>Estudante da T17 na Resilia Educação 📒<br>SP - Brasil 🗺️</h3>
+<h3 align="left">Olá pessoal 👋!<br>Full Stack Developer 🖥️<br>Estudante na Resilia Educação 📒<br>SP - Brasil 🗺️</h3>
 
 ###
 
