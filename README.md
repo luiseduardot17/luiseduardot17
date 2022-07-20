@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Olá pessoal 👋!<br>Full Stack Developer 🖥️<br>Estudante na Resilia Educação 📒<br>SP - Brasil 🗺️</h3>
+<h3 align="left">Olá pessoal 👋 Sejam Bem-vindos!<br>Full Stack Developer 🖥️<br>Estudante na Resilia Educação 📒<br>SP - Brasil 🗺️</h3>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<div width="100%">
+<div align="center">
 <img align="center" height="250" src="https://i.giphy.com/media/fSpC2w245xoVyCCuVx/giphy.webp"  />
 </div>
 
