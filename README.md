@@ -13,7 +13,9 @@
 
 ###
 
+<div align="center">
   <img src="https://profile-counter.glitch.me/luiseduardot17/count.svg?" />
+</div>
 
 ###
 
@@ -31,9 +33,7 @@
 
 ###
 
-<div align="center">
-<img align="right" height="150" src="https://i.giphy.com/media/fSpC2w245xoVyCCuVx/giphy.webp"  />
-</div>
+<img align="center" height="250" width= "200" src="https://i.giphy.com/media/fSpC2w245xoVyCCuVx/giphy.webp"  />
 
 ###
 
