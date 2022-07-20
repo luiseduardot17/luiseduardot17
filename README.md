@@ -13,9 +13,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/luiseduardot17/count.svg?"  />
-</div>
+  <img src="https://profile-counter.glitch.me/luiseduardot17/count.svg?" align="center" />
 
 ###
 
