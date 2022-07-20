@@ -32,9 +32,9 @@
 </div>
 
 ###
-
+<div align="center">
 <img align="right" height="150" src="https://i.giphy.com/media/fSpC2w245xoVyCCuVx/giphy.webp"  />
-
+</div>
 ###
 
 <div align="center">
