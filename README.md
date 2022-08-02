@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-<img align="center" height="250" src="https://i.giphy.com/media/fSpC2w245xoVyCCuVx/giphy.webp"  />
+<img align="center" height="250" src="https://giphy.com/gifs/cyberpunkgame-cyberpunk-cyberpunk2077-2077-fA7rLtaJDIWEzU57CT"  />
 </div>
 
 ###
