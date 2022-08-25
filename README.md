@@ -1,8 +1,8 @@
-<h1 align="left">Luis Eduardo G. de Oliveira🚀</h1>
+<h1 align="center">Luis Eduardo G. de Oliveira🚀</h1>
 
 ###
 
-<h3 align="left">Olá pessoal 👋 Sejam Bem-vindos!<br>Full Stack Developer 🖥️<br>Estudante na Resilia Educação 📒<br>SP - Brasil 🗺️</h3>
+<h3 align="center">Olá pessoal 👋 Sejam Bem-vindos!<br>Full Stack Developer 🖥️<br>Estudante na Resilia Educação 📒<br>SP - Brasil 🗺️</h3>
 
 ###
 
@@ -23,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="reactjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
@@ -34,7 +35,7 @@
 ###
 
 <div align="center">
-<img align="center" height="250" src="https://i.giphy.com/media/fA7rLtaJDIWEzU57CT/giphy.webp"  />
+<img align="center" height="250" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"  />
 </div>
 
 ###
@@ -57,5 +58,6 @@
 <br clear="both">
 
  ![github contribution grid snake animation](https://raw.githubusercontent.com/luiseduardot17/luiseduardot17/output/github-contribution-grid-snake.svg)
+
 
 ###
