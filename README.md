@@ -1,8 +1,8 @@
-<h1 align="center">Luis Eduardo G. de Oliveira🚀</h1>
+<h1 align="center">Luis Eduardo Gonçalves de Oliveira 👨‍💻</h1>
 
 ###
 
-<h3 align="center">Olá pessoal 👋 Sejam Bem-vindos!<br>Full Stack Developer 🖥️<br> Resilia Educação 📒<br>SP - Brasil 🗺️</h3>
+<h3 align="center">Olá 👋 Sejam Bem-vindos ao meu perfil!<br>Full Stack Developer jr 🖥️<br>SP - Brasil 🗺️</h3>
 
 ###
 
@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-<img align="center" height="250" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"  />
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="300" height="300" ></img>
 </div>
 
 ###
@@ -47,9 +47,8 @@
   <a href="luis_eduardogdeo@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
+  <a href="#1409" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://www.twitch.tv/oluiseduardo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
 </div>
 
