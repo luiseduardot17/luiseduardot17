@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/luiseduardot17/count.svg?" />
+  <h4>Visits:</h4><img src="https://profile-counter.glitch.me/luiseduardot17/count.svg?" />
 </div>
 
 ###
