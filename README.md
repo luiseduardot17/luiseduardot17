@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Olá 👋 Sejam Bem-vindos ao meu perfil!<br>Full Stack Developer jr 🖥️<br>SP - Brasil 🗺️</h3>
+<h3 align="center">Olá 👋 Sejam Bem-vindos ao meu perfil!<br>Full Stack Developer junior<br>SP - Brasil</h3>
 
 ###
 
