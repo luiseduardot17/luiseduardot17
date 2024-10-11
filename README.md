@@ -1,8 +1,12 @@
-<h1 align="center">Luis Eduardo Gonçalves de Oliveira 👨‍💻</h1>
+<h1 align="center">Luis Eduardo Gonçalves de Oliveira</h1>
 
 ###
 
 <h3 align="center">Olá 👋 Sejam Bem-vindos ao meu perfil!<br>Full Stack Developer junior<br>SP - Brasil</h3>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/1a0b47e0-d6fe-47f1-9dd8-a63bfd169004" alt="octocat" width="300" height="300"/>
+</div>
 
 ###
 
@@ -45,12 +49,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/luiseduardogdeoliveira" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="luis_eduardogdeo@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://discord.com/channels/@Luis%20Eduardo%20Gon%C3%A7alves%20%F0%9F%90%89#1409" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
